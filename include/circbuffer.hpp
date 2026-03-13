@@ -1,8 +1,6 @@
 #ifndef __CIRCBUFFER_H
 #define __CIRCBUFFER_H
 
-#include "Arduino.h"
-
 class CircularBuffer {
 private:
     static const int SIZE = 64;
