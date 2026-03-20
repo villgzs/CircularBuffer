@@ -1,6 +1,6 @@
 {
   "name": "CircularBuffer",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Egy hatékony, sablon alapú körkörös puffer implementáció Arduino és beágyazott rendszerekhez.",
   "keywords": "data, buffer, circular, queue, avr, esp32",
   "repository": {
